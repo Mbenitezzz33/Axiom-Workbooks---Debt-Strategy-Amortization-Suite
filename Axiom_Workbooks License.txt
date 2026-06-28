@@ -1,0 +1,30 @@
+Copyright (c) 2026 Matthias Benitez
+Axiom_Workbooks. All Rights Reserved.
+
+This repository and its contents are provided for informational and portfolio purposes only.
+
+The Excel workbooks, templates, formulas, VBA code, dashboards, documentation, and related materials developed under Axiom_Workbooks are proprietary intellectual property and are not open source.
+
+No part of these materials may be copied, reproduced, distributed, modified, reverse engineered, sublicensed, sold, shared, published, or used to create derivative works without the prior written permission of the copyright owner.
+
+The purchase of any Axiom_Workbooks product grants the purchaser a limited, non-exclusive, non-transferable license for personal use only.
+
+Purchasers may:
+• Use the workbook(s) for their own personal financial planning and educational purposes.
+
+Purchasers may not:
+• Redistribute or share the workbook(s) with others.
+• Upload the workbook(s) to websites, cloud drives, or file-sharing services for public access.
+• Resell, sublicense, or commercially distribute the workbook(s).
+• Remove copyright notices, branding, or attribution.
+• Modify the workbook(s) and redistribute the modified version.
+
+Unauthorized reproduction or distribution of these materials may violate applicable copyright and intellectual property laws.
+
+For licensing inquiries, please contact:
+
+Matthias Benitez
+Axiom Workbooks
+Email: [Mbenitezzz33@outlook.com](mailto:axiomworkbooks@outlook.com)
+
+© 2026 Axiom Workbooks. All Rights Reserved.
